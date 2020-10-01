@@ -1,2 +1,3 @@
 # python121
-python begginer
+python for the begginers
+Come and learn
